@@ -1,0 +1,96 @@
+2023-07-28 17:37:41,568 - asyncio - DEBUG - Using selector: KqueueSelector
+2023-07-28 17:37:44,877 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): phishtank.org:443
+2023-07-28 17:37:45,511 - urllib3.connectionpool - DEBUG - https://phishtank.org:443 "GET /phish_search.php?verified=y&active=y HTTP/1.1" 200 None
+2023-07-28 17:41:09,774 - asyncio - DEBUG - Using selector: KqueueSelector
+2023-07-28 17:41:12,592 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): phishtank.org:443
+2023-07-28 17:41:13,169 - urllib3.connectionpool - DEBUG - https://phishtank.org:443 "GET /phish_search.php?verified=y&active=y HTTP/1.1" 200 None
+2023-07-28 17:42:27,017 - asyncio - DEBUG - Using selector: KqueueSelector
+2023-07-28 17:42:30,002 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): phishtank.org:443
+2023-07-28 17:42:30,685 - urllib3.connectionpool - DEBUG - https://phishtank.org:443 "GET /phish_search.php?verified=y&active=y HTTP/1.1" 200 None
+2023-07-28 17:43:41,873 - asyncio - DEBUG - Using selector: KqueueSelector
+2023-07-28 17:43:44,790 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): phishtank.org:443
+2023-07-28 17:43:45,333 - urllib3.connectionpool - DEBUG - https://phishtank.org:443 "GET /phish_search.php?verified=y&active=y HTTP/1.1" 200 None
+2023-07-28 20:39:54,667 - asyncio - DEBUG - Using selector: KqueueSelector
+2023-07-28 20:39:57,592 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): phishtank.org:443
+2023-07-28 20:39:58,146 - urllib3.connectionpool - DEBUG - https://phishtank.org:443 "GET /phish_search.php?verified=y&active=y HTTP/1.1" 200 None
+2023-07-28 20:40:42,479 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): phishtank.org:443
+2023-07-28 20:40:43,026 - urllib3.connectionpool - DEBUG - https://phishtank.org:443 "GET /phish_search.php?verified=y&active=y HTTP/1.1" 200 None
+2023-07-28 20:40:54,303 - asyncio - DEBUG - Using selector: KqueueSelector
+2023-07-28 20:41:01,352 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): phishtank.org:443
+2023-07-28 20:41:01,947 - urllib3.connectionpool - DEBUG - https://phishtank.org:443 "GET /phish_search.php?verified=y&active=y HTTP/1.1" 200 None
+2023-07-28 20:41:31,454 - asyncio - DEBUG - Using selector: KqueueSelector
+2023-07-28 20:41:32,698 - asyncio - DEBUG - Using selector: KqueueSelector
+2023-07-28 20:41:35,661 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): phishtank.org:443
+2023-07-28 20:41:36,194 - urllib3.connectionpool - DEBUG - https://phishtank.org:443 "GET /phish_search.php?verified=y&active=y HTTP/1.1" 200 None
+2023-07-28 20:41:51,854 - asyncio - DEBUG - Using selector: KqueueSelector
+2023-07-28 20:41:54,417 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): phishtank.org:443
+2023-07-28 20:41:55,149 - urllib3.connectionpool - DEBUG - https://phishtank.org:443 "GET /phish_search.php?verified=y&active=y HTTP/1.1" 200 None
+2023-07-28 20:42:34,631 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): phishtank.org:443
+2023-07-28 20:42:35,167 - urllib3.connectionpool - DEBUG - https://phishtank.org:443 "GET /phish_search.php?verified=y&active=y HTTP/1.1" 200 None
+2023-07-28 20:43:54,931 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): phishtank.org:443
+2023-07-28 20:43:55,456 - urllib3.connectionpool - DEBUG - https://phishtank.org:443 "GET /phish_search.php?verified=y&active=y HTTP/1.1" 200 None
+2023-07-28 20:51:47,376 - asyncio - DEBUG - Using selector: KqueueSelector
+2023-07-28 20:51:50,484 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): phishtank.org:443
+2023-07-28 20:51:51,042 - urllib3.connectionpool - DEBUG - https://phishtank.org:443 "GET /phish_search.php?verified=y&active=y HTTP/1.1" 200 None
+2023-07-28 20:52:01,266 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): phishtank.org:443
+2023-07-28 20:52:01,863 - urllib3.connectionpool - DEBUG - https://phishtank.org:443 "GET /phish_search.php?verified=y&active=y HTTP/1.1" 200 None
+2023-07-28 20:53:03,993 - asyncio - DEBUG - Using selector: KqueueSelector
+2023-07-28 20:53:05,959 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): phishtank.org:443
+2023-07-28 20:53:06,485 - urllib3.connectionpool - DEBUG - https://phishtank.org:443 "GET /phish_search.php?verified=y&active=y HTTP/1.1" 200 None
+2023-07-28 20:53:47,889 - asyncio - DEBUG - Using selector: KqueueSelector
+2023-07-28 20:53:50,508 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): phishtank.org:443
+2023-07-28 20:53:51,045 - urllib3.connectionpool - DEBUG - https://phishtank.org:443 "GET /phish_search.php?verified=y&active=y HTTP/1.1" 200 None
+2023-07-28 20:59:43,922 - asyncio - DEBUG - Using selector: KqueueSelector
+2023-07-28 20:59:45,136 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): phishtank.org:443
+2023-07-28 20:59:45,697 - urllib3.connectionpool - DEBUG - https://phishtank.org:443 "GET /phish_search.php?verified=y&active=y HTTP/1.1" 200 None
+2023-07-28 21:00:29,384 - asyncio - DEBUG - Using selector: KqueueSelector
+2023-07-28 21:00:32,477 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): phishtank.org:443
+2023-07-28 21:00:33,026 - urllib3.connectionpool - DEBUG - https://phishtank.org:443 "GET /phish_search.php?verified=y&active=y HTTP/1.1" 200 None
+2023-07-28 21:01:00,551 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): phishtank.org:443
+2023-07-28 21:01:01,114 - urllib3.connectionpool - DEBUG - https://phishtank.org:443 "GET /phish_search.php?verified=y&active=y HTTP/1.1" 200 None
+2023-07-28 21:01:32,176 - asyncio - DEBUG - Using selector: KqueueSelector
+2023-07-28 21:01:34,623 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): phishtank.org:443
+2023-07-28 21:01:35,161 - urllib3.connectionpool - DEBUG - https://phishtank.org:443 "GET /phish_search.php?verified=y&active=y HTTP/1.1" 200 None
+2023-07-28 21:02:05,977 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): phishtank.org:443
+2023-07-28 21:02:06,536 - urllib3.connectionpool - DEBUG - https://phishtank.org:443 "GET /phish_search.php?verified=y&active=y HTTP/1.1" 200 None
+2023-07-28 21:02:34,839 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): phishtank.org:443
+2023-07-28 21:02:35,375 - urllib3.connectionpool - DEBUG - https://phishtank.org:443 "GET /phish_search.php?verified=y&active=y HTTP/1.1" 200 None
+2023-07-28 21:04:48,936 - asyncio - DEBUG - Using selector: KqueueSelector
+2023-07-28 21:04:51,229 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): phishtank.org:443
+2023-07-28 21:04:51,763 - urllib3.connectionpool - DEBUG - https://phishtank.org:443 "GET /phish_search.php?verified=y&active=y HTTP/1.1" 200 None
+2023-07-28 21:07:23,395 - asyncio - DEBUG - Using selector: KqueueSelector
+2023-07-28 21:07:25,052 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): phishtank.org:443
+2023-07-28 21:07:25,575 - urllib3.connectionpool - DEBUG - https://phishtank.org:443 "GET /phish_search.php?verified=y&active=y HTTP/1.1" 200 None
+2023-07-28 21:36:28,061 - asyncio - DEBUG - Using selector: KqueueSelector
+2023-07-28 21:37:36,226 - asyncio - DEBUG - Using selector: KqueueSelector
+2023-07-28 21:39:10,816 - asyncio - DEBUG - Using selector: KqueueSelector
+2023-07-28 21:39:12,106 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): phishtank.org:443
+2023-07-28 21:39:12,663 - urllib3.connectionpool - DEBUG - https://phishtank.org:443 "GET /phish_search.php?verified=y&active=y HTTP/1.1" 200 None
+2023-07-28 21:40:58,210 - asyncio - DEBUG - Using selector: KqueueSelector
+2023-07-28 21:41:00,351 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): phishtank.org:443
+2023-07-28 21:41:00,882 - urllib3.connectionpool - DEBUG - https://phishtank.org:443 "GET /phish_search.php?verified=y&active=y HTTP/1.1" 200 None
+2023-07-28 21:41:32,795 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): phishtank.org:443
+2023-07-28 21:41:33,371 - urllib3.connectionpool - DEBUG - https://phishtank.org:443 "GET /phish_search.php?verified=y&active=y HTTP/1.1" 200 None
+2023-07-28 21:41:36,401 - asyncio - DEBUG - Using selector: KqueueSelector
+2023-07-28 21:41:39,313 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): phishtank.org:443
+2023-07-28 21:41:39,912 - urllib3.connectionpool - DEBUG - https://phishtank.org:443 "GET /phish_search.php?verified=y&active=y HTTP/1.1" 200 None
+2023-07-28 21:42:48,022 - asyncio - DEBUG - Using selector: KqueueSelector
+2023-07-28 21:42:50,760 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): phishtank.org:443
+2023-07-28 21:42:51,405 - urllib3.connectionpool - DEBUG - https://phishtank.org:443 "GET /phish_search.php?verified=y&active=y HTTP/1.1" 200 None
+2023-07-28 21:43:10,523 - asyncio - DEBUG - Using selector: KqueueSelector
+2023-07-28 21:43:13,990 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): phishtank.org:443
+2023-07-28 21:43:14,855 - urllib3.connectionpool - DEBUG - https://phishtank.org:443 "GET /phish_search.php?verified=y&active=y HTTP/1.1" 200 None
+2023-07-28 21:45:08,883 - asyncio - DEBUG - Using selector: KqueueSelector
+2023-07-28 21:45:11,647 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): phishtank.org:443
+2023-07-28 21:45:12,203 - urllib3.connectionpool - DEBUG - https://phishtank.org:443 "GET /phish_search.php?verified=y&active=y HTTP/1.1" 200 None
+2023-07-28 21:45:41,290 - asyncio - DEBUG - Using selector: KqueueSelector
+2023-07-28 21:45:42,761 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): phishtank.org:443
+2023-07-28 21:45:43,334 - urllib3.connectionpool - DEBUG - https://phishtank.org:443 "GET /phish_search.php?verified=y&active=y HTTP/1.1" 200 None
+2023-07-28 21:47:23,018 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): phishtank.org:443
+2023-07-28 21:47:23,581 - urllib3.connectionpool - DEBUG - https://phishtank.org:443 "GET /phish_search.php?verified=y&active=y HTTP/1.1" 200 None
+2023-07-28 21:47:39,290 - asyncio - DEBUG - Using selector: KqueueSelector
+2023-07-28 21:48:16,130 - asyncio - DEBUG - Using selector: KqueueSelector
+2023-07-28 21:48:18,543 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): phishtank.org:443
+2023-07-28 21:48:18,905 - urllib3.connectionpool - DEBUG - https://phishtank.org:443 "GET /phish_search.php?verified=y&active=y HTTP/1.1" 200 None
+2023-07-28 21:48:52,189 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): phishtank.org:443
+2023-07-28 21:48:52,770 - urllib3.connectionpool - DEBUG - https://phishtank.org:443 "GET /phish_search.php?verified=y&active=y HTTP/1.1" 200 None
